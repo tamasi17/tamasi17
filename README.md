@@ -2,18 +2,18 @@
 <h3 align="center">Backend dev with audiovisual background from Madrid.</h3>
 <p>____________________________________________________________________________________________</p>
 
-
 <p>Thanks for dropping by :)</p>
 
-<h3>Currently looking for an internship, hit me up!</h3>
 
 <p>Projects: </p>
 
+- Ongoing project: [A PlantAPI Springboot demo](https://github.com/tamasi17/PracticaSpringBoot)
+  
 - Ongoing project: [SVLeague - Japanese Volleyball League ORM](https://github.com/tamasi17/SVLeagueORM)
 
-- Ongoing project: [MaccsEvents - the events Android app.](https://github.com/tamasi17/AppDispositivosMoviles)
+- Team project: [MaccsEvents - the events Android app.](https://github.com/tamasi17/AppDispositivosMoviles)
 
-- 🌱 Learning **Java, Quarkus, Unity + C#**
+- 🌱 Learning **Java, Springboot, Quarkus, Unity + C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tamasi17/](https://github.com/tamasi17/)
 
