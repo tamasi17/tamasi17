@@ -7,7 +7,7 @@
 
 <p>Projects: </p>
 
-- Ongoing project: [A PlantAPI Springboot demo](https://github.com/tamasi17/PracticaSpringBoot)
+- Ongoing project: [PlantAPI - a Springboot demo](https://github.com/tamasi17/PracticaSpringBoot)
   
 - Ongoing project: [SVLeague - Japanese Volleyball League ORM](https://github.com/tamasi17/SVLeagueORM)
 
